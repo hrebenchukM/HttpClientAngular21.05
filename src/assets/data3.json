@@ -1,0 +1,13 @@
+{
+    "userList":
+    [{
+        "userName": "Alex",
+        "userAge": 28
+    },{
+        "userName": "Irina",
+        "userAge": 39
+    },{
+        "userName": "Ivanna",
+        "userAge": 32
+    }]
+}
